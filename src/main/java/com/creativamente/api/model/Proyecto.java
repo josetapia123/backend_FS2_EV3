@@ -1,4 +1,4 @@
-package com.creativamente.api.entity;
+package com.creativamente.api.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

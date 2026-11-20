@@ -1,6 +1,6 @@
 package com.creativamente.api.config;
 
-import com.creativamente.api.entity.*;
+import com.creativamente.api.model.*;
 import com.creativamente.api.repository.*;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;

@@ -1,7 +1,9 @@
 package com.creativamente.api.repository;
 
-import com.creativamente.api.entity.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.creativamente.api.model.Usuario;
+
 import java.util.Optional;
 
 public interface UsuarioRepository extends JpaRepository<Usuario, Long> {

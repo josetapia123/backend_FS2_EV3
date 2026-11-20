@@ -1,4 +1,4 @@
-package com.creativamente.api.entity;
+package com.creativamente.api.model;
 
 // Roles alineados con los perfiles del sistema y las vistas del frontend
 public enum RolNombre {

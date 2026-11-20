@@ -1,7 +1,7 @@
 package com.creativamente.api.service;
 
 import com.creativamente.api.dto.ProyectoRequest;
-import com.creativamente.api.entity.Proyecto;
+import com.creativamente.api.model.Proyecto;
 import com.creativamente.api.repository.ProyectoRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

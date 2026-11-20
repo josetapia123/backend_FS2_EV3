@@ -1,8 +1,8 @@
 package com.creativamente.api.service;
 
 import com.creativamente.api.dto.TareaRequest;
-import com.creativamente.api.entity.Proyecto;
-import com.creativamente.api.entity.Tarea;
+import com.creativamente.api.model.Proyecto;
+import com.creativamente.api.model.Tarea;
 import com.creativamente.api.repository.ProyectoRepository;
 import com.creativamente.api.repository.TareaRepository;
 import org.springframework.stereotype.Service;

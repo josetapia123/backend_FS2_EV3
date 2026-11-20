@@ -1,4 +1,4 @@
-package com.creativamente.api.entity;
+package com.creativamente.api.model;
 
 import jakarta.persistence.*;
 
